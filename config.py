@@ -1,1 +1,1 @@
-TOKEN = '7921423334:AAFQdGafj9BS_CuoFPkiuQfiJF84O9A8DGw'
+TOKEN = 'Тут бы токен было бы классно'
